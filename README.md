@@ -1,7 +1,5 @@
-Below is an English version of the `README.md` file for your project:
-
 ```markdown
-# DDoS Tool: FYX-CLV
+# DDoS Tool: FYX-DDoS
 
 ## Project Overview
 
@@ -81,7 +79,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 
-# DDoS工具：FYX-CLV
+# DDoS工具：FYX-DDoS
 
 ## 项目简介
 
