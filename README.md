@@ -1,2 +1,20 @@
-# FYX-DDoS
-This is a DDoS tool developed by a CN 14-year-old junior high school student with 64 attack methods (Chinese interface)
+# DDoS工具：FYX-CLV
+
+## 项目简介
+
+FYX-CLV 是一款由中国14岁初中生开发的分布式拒绝服务（DDoS）工具，提供64种攻击方式，界面为中文。
+
+**警告：** 未经授权，禁止使用本工具进行任何形式的攻击行为。
+
+## 功能特性
+
+- **多种攻击方式：** 提供64种不同的DDoS攻击方法，满足多样化的测试需求。
+- **中文界面：** 采用中文界面，操作简便，易于上手。
+- **高效性能：** 经过优化，能够高效地发起攻击，模拟真实的攻击场景。
+
+## 安装指南
+
+1. **克隆项目：**
+
+   ```bash
+   git clone https://github.com/yourusername/FYX-CLV.git
