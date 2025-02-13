@@ -1,11 +1,10 @@
-```markdown
 # DDoS Tool: FYX-DDoS
 
 ## Project Overview
 
 FYX-CLV is a Distributed Denial of Service (DDoS) tool developed by a 14-year-old junior high school student from China. It offers 64 different attack methods and features a Chinese-language interface.
 
-**Warning:** Unauthorized use of this tool for any form of attack is strictly prohibited.
+**Warning:** Unauthorized use of this tool for any form of illegal attack is prohibited.
 
 ## Features
 
@@ -72,7 +71,7 @@ Contributions are welcome. Please ensure your contributions comply with the proj
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
+
 
 **Note:** Please ensure that all actions performed with this tool are within the bounds of the law and have explicit authorization. 
  
@@ -85,7 +84,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 FYX-CLV 是一款由中国14岁初中生开发的分布式拒绝服务（DDoS）工具，提供64种攻击方式，界面为中文。
 
-**警告：** 未经授权，禁止使用本工具进行任何形式的攻击行为。
+**警告：** 未经授权，禁止使用本工具进行任何形式的非法攻击行为。
 
 ## 功能特性
 
