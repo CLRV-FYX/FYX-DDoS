@@ -32,7 +32,7 @@ FYX-CLV is a Distributed Denial of Service (DDoS) tool developed by a 14-year-ol
 1. **Launch the Tool:**
 
    ```bash
-   python main.py
+   python app.py
    ```
 
 2. **Select Attack Method:**
@@ -112,7 +112,7 @@ FYX-CLV 是一款由中国14岁初中生开发的分布式拒绝服务（DDoS）
 1. **启动工具：**
 
    ```bash
-   python main.py
+   python app.py
    ```
 
 2. **选择攻击方式：**
