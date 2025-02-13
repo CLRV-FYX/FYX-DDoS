@@ -142,7 +142,7 @@ FYX-CLV 是一款由中国14岁初中生开发的分布式拒绝服务（DDoS）
 如有任何问题或建议，请通过以下方式联系作者：
 
 - **邮箱：** fuyanxin123_2022@163.com
-- **GitHub：** https://github.com/CLRV-FYX
+- **GitHub：** https://kkgithub.com/CLRV-FYX
 
 ## 贡献
 
